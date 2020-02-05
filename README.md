@@ -1,2 +1,0 @@
-# amoozesh
-Begin app
